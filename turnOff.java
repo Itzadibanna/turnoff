@@ -17,6 +17,7 @@ public class turnOff {
 finally {
           System.out.println("fuckoff");
       }
+        scanner.close();
     }
 
 }
